@@ -2,7 +2,6 @@
 basic automation testing of a demo web page using selenium webDriver
 
 
-
 *go to "try test this" web page
 *verify either the right web page or not
 *input first name and last name
